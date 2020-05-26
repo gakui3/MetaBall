@@ -1,5 +1,6 @@
 # MetaBall
 
-Study. Implemented metaball with ray marchingmade by unity
+Study. Implemented metaball with ray marchingmade by unity  
 
-![metaball](https://user-images.githubusercontent.com/65954422/82906807-bcd6d100-9fa0-11ea-82d7-fe2bc1c22860.PNG)
+
+![metaball](https://user-images.githubusercontent.com/65954422/82925282-755c3f00-9fb8-11ea-89cd-d6010312da1b.PNG)
